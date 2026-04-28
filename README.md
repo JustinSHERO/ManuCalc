@@ -16,5 +16,6 @@ Web-based machinist calculator built to replace slow, outdated shop tools.
 - JavaScript
 - HTML
 - CSS
+- React
 - Firebase Authentication
 - Vercel Hosting 
